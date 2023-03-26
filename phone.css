@@ -1,0 +1,19 @@
+.navigation{
+    flex-wrap: wrap;
+}
+.navbar2{
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px;
+    font-size: 12px;
+}
+.content{
+    padding: 23px 23px;
+    flex-wrap: wrap;
+    margin-left: 17px;
+    margin-right: 17px;
+}
+.Info{
+    font-size: 19px;
+}
+
